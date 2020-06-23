@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+  <item>
+    <shape android:shape="rectangle">
+      <gradient
+
+          android:angle="90"
+          android:centerColor="#0099ff"
+          android:endColor="#0099ff"
+          android:startColor="#00c853"
+          android:type="linear" />
+      <padding
+          android:left="0dip"
+          android:top="0dip"
+          android:right="0dip"
+          android:bottom="0dip" />
+    </shape>
+  </item>
+  <item >
+    <bitmap android:height="50dp" android:src="@mipmap/splashscreen"
+        android:gravity="center"  />
+  </item>
+  
+  <item
+      android:bottom="10dp">
+    <bitmap android:src="@mipmap/powered_by"
+        android:gravity="bottom" />
+  </item>
+</layer-list>

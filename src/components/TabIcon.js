@@ -1,0 +1,21 @@
+export default TabIcon ={
+    combinedShape:require("../Assets/Images/combinedShape.png"),
+    chevronRight:require("../Assets/Images/chevronRight.png"),
+    timer:require("../Assets/Images/timer.png"),
+    programStatus:require("../Assets/Images/programStatus.png"),
+    rain:require("../Assets/Images/rain.png"),
+    valveOn:require("../Assets/Images/valveOn.png"),
+    arrowDropDown:require("../Assets/Images/arrowDropDown.png"),
+    settingsSliderCopy:require("../Assets/Images/settingsSliderCopy.png"),
+    shape:require("../Assets/Images/shape.png"),
+    irrigationiamge:require("../Assets/Images/irrigationiamge.png"),
+    menuBlue:require("../Assets/Images/menuBlue.png"),
+    weekly:require("../Assets/Images/weekly.png"),
+    buttonRefreshArrow:require("../Assets/Images/buttonRefreshArrow.png"),
+    cyclic:require("../Assets/Images/cyclic.png"),
+    clear:require("../Assets/Images/clear.png"),
+    copy:require("../Assets/Images/copy.png"),
+    paste:require("../Assets/Images/paste.png"),
+    checkCircle1:require("../Assets/Images/checkCircle1.png"),
+    weatherAppRain:require('../Assets/Images/weatherAppRain.png')
+}

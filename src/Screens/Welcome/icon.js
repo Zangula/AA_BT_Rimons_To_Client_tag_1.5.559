@@ -1,0 +1,20 @@
+export default welcomicons ={
+    threedot:require("../../Assets/Images/menuBlue.png"),
+    rainOff:require("../../Assets/Images/rainOff.png"),
+    beaconWirelessRemote:require("../../Assets/Images/beaconWirelessRemote.png"),
+    bitmap:require("../../Assets/Images/bitmap.png"),
+    batteryEmpty:require("../../Assets/Images/battery/empty.png"),
+    batteryLow:require("../../Assets/Images/battery/low.png"),
+    batteryOk:require("../../Assets/Images/battery/ok.png"),
+    batteryEmptyDark:require("../../Assets/Images/battery/empty_dark.png"),
+    batteryLowDark:require("../../Assets/Images/battery/low_dark.png"),
+    batteryOkDark:require("../../Assets/Images/battery/ok_dark.png"),
+    irrigationCount:require("../../Assets/Images/bluetoothOnCopy.png"),
+    bluetoothOn:require("../../Assets/Images/bluetoothOn.png"),
+    bluetoothOff:require("../../Assets/Images/bluetoothOff.png"),
+    combinedShape:require("../../Assets/Images/combinedShape.png"),
+    edit:require("../../Assets/Images/edit.png"),
+    clear:require("../../Assets/Images/clear.png"),
+    camera:require("../../Assets/Images/camera.png"),
+    backgroundimage:require("../../Assets/Images/background.png")
+}
